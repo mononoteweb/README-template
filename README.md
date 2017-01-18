@@ -2,28 +2,42 @@
 ====
 名前。スクショなどを載せる。
 
-## Overview
-一言説明。
+![Badge Status](https://ci-as-a-service)
+
+一言概要 一言概要 一言概要 一言概要 一言概要
+
 
 ## Description
 もうちょっと詳しい説明。
+
 
 ## Demo
 アプリケーションなら簡単な機能説明。GIFアニメとかが有効。  
 サイトならスクショ。
 
+![Demo](https://image-url.gif)
+
+
 ## VS.
 競合する物との違いを説明。
 
+
 ## Requirement
-ツールやライブラリの依存関係を書く。
+- ツールやライブラリの依存関係を書く。
+- ツールやライブラリの依存関係を書く。
+- ツールやライブラリの依存関係を書く。
+
 
 ## Usage
-使い方を書く。
+1. 使い方を書く。
+2. 使い方を書く。
+3. 使い方を書く。
+
 
 ## Install
-インストール方法を書く。  
-コピペするだけで良いように。
+1. インストール方法を書く。  
+2. コピペするだけで良いように。
+
 
 ## Contribution
 Contributionの方法を書く。
@@ -36,10 +50,12 @@ Contributionの方法を書く。
 5. Create new Pull Request
 ```
 
+
 ## Licence
 ライセンスについて書く。  
 **参考**
 http://qiita.com/tadsan/items/99d816e78ca429093b75
+
 
 ## Author
 [mono](https://github.com/mononoteweb)
