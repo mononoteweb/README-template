@@ -2,7 +2,11 @@
 ====
 名前。スクショなどを載せる。
 
-![Badge Status](https://ci-as-a-service)
+**バッジを貼る。**
+```
+[![Badge Status](https://ci-as-a-service)](Status)
+```
+
 
 一言概要 一言概要 一言概要 一言概要 一言概要
 
